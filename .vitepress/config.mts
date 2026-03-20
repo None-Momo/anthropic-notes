@@ -19,8 +19,11 @@ export default defineConfig({
           text: 'AI Fluency: Framework & Foundations',
           items: [
             { text: 'Overview', link: '/ai-fluency/' },
-            { text: '01 - 4D Framework', link: '/ai-fluency/01-4d-framework' },
+            { text: '01 - AI Fluency Framework', link: '/ai-fluency/01-ai-fluency-framework' },
             { text: '02 - Delegation', link: '/ai-fluency/02-delegation' },
+            { text: '03 - Description', link: '/ai-fluency/03-description' },
+            { text: '04 - Discernment', link: '/ai-fluency/04-discernment' },
+            { text: '05 - Diligence', link: '/ai-fluency/05-diligence' },
           ]
         }
       ],
