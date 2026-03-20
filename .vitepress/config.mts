@@ -1,6 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
+  base: '/anthropic-notes/', 
   title: "Anthropic Academy Notes",
   description: "My learning notes from Anthropic Academy",
 
