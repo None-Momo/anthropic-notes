@@ -1,19 +1,21 @@
-# AI Fluency Overview
-The focus of this course is not really about AI as a technology.
-How we interact and collaborate with AI systems.
+# AI Fluency Course Overview
+The focus of this course is not really about AI as a technology<br>
+<span style="color:#E24B4A">How we interact and collaborate with AI systems</span>
 
-Key Takeaways
-This course focuses on human-AI collaboration, not just understanding AI as a technology
-AI Fluency means engaging with AI systems effectively, efficiently, ethically, and safely
-The AI Fluency Framework centers on the "4D" competencies of Delegation, Description, Discernment and Diligence
-The goal is to develop lasting skills that remain relevant as AI technology evolves
+Key Takeaways<br>
+This course focuses on human-AI collaboration, not just understanding AI as a technology<br>
+AI Fluency means engaging with AI systems effectively, efficiently, ethically, and safely<br>
+The AI Fluency Framework centers on the "4D" competencies of <br>
+Delegation, Description, Discernment and Diligence<br>
+The goal is to develop lasting skills that remain relevant as AI technology evolves<br>
 Effective AI collaboration requires both practical skills and a fundamental shift in how we think about working with AI
 
 Course Learning Outcomes
-A framework for thinking about AI Interation 
-The ability to make informed decisions about when and how to engage with AI systems
-Practical skills for more fluent human-AI collaboration 
-Confidence in evaluating and taking responsibility for AI outputs
+
+- A framework for thinking about AI Interaction
+- The ability to make informed decisions about when and how to engage with AI systems
+- Practical skills for more fluent human-AI collaboration
+- Confidence in evaluating and taking responsibility for AI outputs
 
 Effective/Efficient/Ethical/Safe
 
