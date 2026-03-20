@@ -30,7 +30,7 @@ Diligence
 		<p style="margin:0 0 18px 0; font-size:18px; color:#2d2a32; line-height:1.6;">
 		   No need to memorize; just refer to it when needed.
 		</p>
-		<a href="/ai-fluency/AI_Fluency_vocabulary_cheat_sheet.pdf" style="display:inline-block; padding:12px 22px; border-radius:12px; background:#6f6a80; color:#ffffff; text-decoration:none; font-weight:600;">Download</a>
+		<a href="/anthropic-notes/ai-fluency/AI_Fluency_vocabulary_cheat_sheet.pdf" style="display:inline-block; padding:12px 22px; border-radius:12px; background:#6f6a80; color:#ffffff; text-decoration:none; font-weight:600;">Download</a>
 	</div>
 </div>
 
