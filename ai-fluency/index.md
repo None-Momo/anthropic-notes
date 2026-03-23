@@ -4,12 +4,12 @@ The focus of this course is not really about AI as a technology<br>
 Comment: I think this aligns well with HCI's values(
 
 Key Takeaways<br>
-This course focuses on human-AI collaboration, not just understanding AI as a technology<br>
-AI Fluency means engaging with AI systems effectively, efficiently, ethically, and safely<br>
-The AI Fluency Framework centers on the "4D" competencies of <br>
+- This course focuses on human-AI collaboration, not just understanding AI as a technology<br>
+- AI Fluency means engaging with AI systems effectively, efficiently, ethically, and safely<br>
+- The AI Fluency Framework centers on the "4D" competencies of 
 Delegation, Description, Discernment and Diligence<br>
-The goal is to develop lasting skills that remain relevant as AI technology evolves<br>
-Effective AI collaboration requires both practical skills and a fundamental shift in how we think about working with AI
+- The goal is to develop lasting skills that remain relevant as AI technology evolves<br>
+- Effective AI collaboration requires both practical skills and a fundamental shift in how we think about working with AI
 
 Course Learning Outcomes
 

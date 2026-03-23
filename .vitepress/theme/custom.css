@@ -1,0 +1,27 @@
+:root {
+  --home-hero-image-size: 220px;
+}
+
+/* Reduce hero image size on home page */
+.VPHomeHero .image,
+.VPHomeHero .image .VPImage,
+.VPHomeHero .image .VPImage img {
+  max-width: var(--home-hero-image-size);
+  max-height: var(--home-hero-image-size);
+}
+
+/* Nudge hero image downward */
+.VPHomeHero .image {
+  margin-top: 20px;
+}
+
+/* Keep responsive behavior on narrow screens */
+@media (max-width: 768px) {
+  :root {
+    --home-hero-image-size: 180px;
+  }
+
+  .VPHomeHero .image {
+    margin-top: 5px;
+  }
+}
