@@ -6,7 +6,7 @@ hero:
   text: "Claude Guide"
   tagline: Xavier's Claude Study
   image:
-    src: "/docs/3e518ce0188757d6c7bb4b56d584eaf4.png"
+    src: "/claude-logo.png"
     alt: "Claude logo"
   actions:
     - theme: brand
