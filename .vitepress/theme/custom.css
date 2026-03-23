@@ -21,6 +21,11 @@
     --home-hero-image-size: 170px;
   }
 
+  /* Hide hero image on mobile to avoid overlap */
+  .VPHomeHero .image {
+    display: none;
+  }
+
   /* Stack image above text and center align on mobile */
   .VPHomeHero .main {
     flex-direction: column;
@@ -33,18 +38,6 @@
     order: 2;
     align-items: center;
     margin-top: 4px;
-  }
-
-  .VPHomeHero .image {
-    order: 1;
-    margin-top: 0;
-    margin-bottom: 12px;
-    display: flex;
-    justify-content: center;
-  }
-
-  .VPHomeHero .image .image-container {
-    margin: 0 auto;
   }
 
   .VPHomeHero .name,
