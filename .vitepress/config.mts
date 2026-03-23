@@ -24,6 +24,9 @@ export default defineConfig({
             { text: '03 - Description', link: '/ai-fluency/03-description' },
             { text: '04 - Discernment', link: '/ai-fluency/04-discernment' },
             { text: '05 - Diligence', link: '/ai-fluency/05-diligence' },
+            { text: '06 - GenAI', link: '/ai-fluency/06-genai' },
+            { text: '07 - Effective Prompts', link: '/ai-fluency/07-effective-prompts' },
+            { text: '08 - Completion', link: '/ai-fluency/08-completion' },
           ]
         }
       ],

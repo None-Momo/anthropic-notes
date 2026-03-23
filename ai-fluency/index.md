@@ -1,6 +1,7 @@
 # AI Fluency Course Overview
 The focus of this course is not really about AI as a technology<br>
-<span style="color:#E24B4A">How we interact and collaborate with AI systems</span>
+<span style="color:#E24B4A">How we interact and collaborate with AI systems</span><br>
+Comment: I think this aligns well with HCI's values(
 
 Key Takeaways<br>
 This course focuses on human-AI collaboration, not just understanding AI as a technology<br>
@@ -17,7 +18,7 @@ Course Learning Outcomes
 - Practical skills for more fluent human-AI collaboration
 - Confidence in evaluating and taking responsibility for AI outputs
 
-Effective/Efficient/Ethical/Safe
+<span style="color:#E24B4A">Effective/Efficient/Ethical/Safe</span>
 
 Course Roadmap:
 - [AI Fluency Framework](/ai-fluency/01-ai-fluency-framework)
@@ -25,6 +26,9 @@ Course Roadmap:
 - [Description](/ai-fluency/03-description)
 - [Discernment](/ai-fluency/04-discernment)
 - [Diligence](/ai-fluency/05-diligence)
+- [GenAI](/ai-fluency/06-genai)
+- [Effective Prompts](/ai-fluency/07-effective-prompts)
+- [Completion](/ai-fluency/08-completion)
 
 ## Downloads
 

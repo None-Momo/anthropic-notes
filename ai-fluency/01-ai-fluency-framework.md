@@ -1,26 +1,41 @@
 # AI Fluency Framework
 
-## What you'll learn
-- Understand the 4D model (Delegation, Description, Discernment, Diligence) as a mental scaffold.
-- Know when to hand work to AI vs. keep it human-led.
-- Frame tasks so AI can deliver safely and effectively.
+## Why do we need AI Fluency?
+AI influency isn't just about being a technical expert or memorizing the 10 best prompts whatever trending task is popular this month.
+It's about developing a collection of practical skills, knowledge, insights, and values that reinforce each other.
 
-## Overview
-Use the 4D model to scope, brief, review, and govern AI-assisted work.
+This chapter explores what it really means to be "fluent" with AI and why this matters. We discuss how AI Fluency involves developing practical skills, knowledge, insights, and values that help you interact with AI systems in ways that are effective, efficient, ethical, and safe. We also introduce three ways people engage with AI:
 
-## 1) Delegation
-Decide what to delegate, what to keep, and what to share with AI. Balance speed, risk, and oversight.
+- Automation: The AI completes specific tasks based on your instructions.
+- Augmentation: You and AI collaborate as creative thinking and task execution partners.
+- Agency: You configure AI to work independently on your behalf, establishing its knowledge and behavior patterns rather than just giving it specific tasks.
 
-## 2) Description
-Write prompts/briefs with goals, constraints, examples, and evaluation criteria.
 
-## 3) Discernment
-Critically review AI outputs: accuracy, completeness, bias, safety, and fit-for-purpose.
+## The 4D Framework
+The AI Fluency Framework consists of four core competencies (the 4Ds):<br>
+Delegation: Deciding what work to do with AI vs. yourself<br>
+Description: Communicating effectively with AI systems<br>
+Discernment: Evaluating AI outputs critically<br>
+Diligence: Ensuring responsible AI collaboration<br>
 
-## 4) Diligence
-Track versions, verify facts, add guardrails, and document decisions/responsibilities.
+<div style="text-align:center; margin: 20px 0;">
+	<img src="../docs/4D.png" alt="4D framework showing Delegation, Description, Discernment, Diligence" style="max-width: 720px; width: 60%; height: auto; border-radius: 12px;" />
+</div>
 
-## Quick checklist
-- Outcome, constraints, context
-- Success criteria and guardrails
-- Review plan and ownership
+### 1) Delegation
+Understand your goal and the problem that you are trying to solve<br>
+Know what AI systems can and can't do<br>
+Decide how to divide the work between you and the AI
+### 2) Description
+What you want the final output to be<br>
+How you want the AI to approach the task<br>
+How you want the AI to behave 
+### 3) Discernment
+Is the output useful and correct?<br>
+Is the AI taking the right approach?<br>
+Is the AI behaving as desired?
+### 4) Diligence
+Ensuring accuracy and taking responsibility<br>
+Honesty and transparency<br>
+Ethical use and critical awareness
+
