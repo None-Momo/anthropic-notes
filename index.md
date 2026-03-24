@@ -30,3 +30,5 @@ features:
 
 _Content adapted from Anthropic Academy course materials; used here for study and reference._
 
+[Go to Anthropic Academy](https://www.anthropic.com/learn)
+
