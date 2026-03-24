@@ -43,7 +43,7 @@ export default defineConfig({
     search: { provider: 'local' },
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/YOUR_USERNAME/anthropic-notes' }
+      { icon: 'github', link: 'https://none-momo.github.io/' }
     ]
   }
 })

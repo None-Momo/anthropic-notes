@@ -13,8 +13,8 @@ hero:
       text: Start
       link: /ai-fluency/
     - theme: alt
-      text: GitHub
-      link: https://github.com/YOUR_USERNAME/anthropic-notes
+      text: My Website
+      link: https://none-momo.github.io/
 
 features:
   - title: AI Fluency
