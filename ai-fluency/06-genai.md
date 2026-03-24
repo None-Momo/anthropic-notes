@@ -1,27 +1,16 @@
 # What is Generative AI?
 
-## GenAI Fundamentals
-This chapter introduces the concept of generative AI, focusing on its ability to create new content rather than just analyzing what already exists. We walk through how large language models (LLMs) like Claude actually work and the technological journey that made them possible, from algorithmic breakthroughs like the transformer architecture to vast training datasets and powerful computing. We also explain how these systems learn through pre-training and fine-tuning and discuss concepts like context windows and emergent capabilities.
+## What you'll learn
+- Define generative AI and how it differs from other AI types
+- Recognize the key characteristics and technological foundations of generative AI
 
-## Key concepts
-- **Generative models**: predict the next token to produce new text/code/media.
-- **Context window**: how much input the model can see at once.
-- **Sampling controls**: temperature/top_p to balance creativity vs. stability.
-- **Hallucination**: confident but wrong outputs—always verify.
-- **Guardrails**: policies, filters, and prompts to keep use safe.
-
-## Good use cases
-- Brainstorming, outlining, first drafts
-- Summaries and rewrites (with human review)
-- Classification, extraction, light data cleanup
-
-## Caution zones
-- Factual/critical content without verification
-- Sensitive data, privacy/regulatory constraints
-- Long reasoning chains that need reliable intermediate steps
-
-## Practice
-- Draft a short outline with GenAI; then add a review checklist and fix any gaps.
+<div style="display:flex; flex-direction:column; gap:18px; margin:20px 0;">
+	<img src="/ai-fluency/1.png" alt="GenAI visual 1" style="width:100%; max-width:960px; border-radius:12px;" />
+	<img src="/ai-fluency/2.png" alt="GenAI visual 2" style="width:100%; max-width:960px; border-radius:12px;" />
+	<img src="/ai-fluency/3.png" alt="GenAI visual 3" style="width:100%; max-width:960px; border-radius:12px;" />
+	<img src="/ai-fluency/4.png" alt="GenAI visual 4" style="width:100%; max-width:960px; border-radius:12px;" />
+	<img src="/ai-fluency/5.png" alt="GenAI visual 5" style="width:100%; max-width:960px; border-radius:12px;" />
+</div>
 
 ## Downloads
 

@@ -28,3 +28,5 @@ features:
     link: /claude-api/
 ---
 
+_Content adapted from Anthropic Academy course materials; used here for study and reference._
+
