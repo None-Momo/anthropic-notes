@@ -55,6 +55,14 @@
 - **For explanations:** "Please explain how rainbows form from the perspective of an experienced science teacher speaking to a bright 10-year-old who's interested in science."
 - **For brainstorming & feedback:** "As a UX design expert, review this website wireframe and suggest three improvements focusing on user navigation and accessibility."
 
+## Other Techniques to try
+
+![Other techniques to try](/ai-fluency/6.png)
+
+## What works and what doesn't work
+
+![What works and what doesn't work](/ai-fluency/7.png)
+
 
 <div style="border-radius:18px; background:#d2cfe3; padding:28px; display:flex; gap:24px; align-items:center;">
 	<div style="flex:0 0 140px; text-align:center;">
