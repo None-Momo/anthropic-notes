@@ -57,11 +57,11 @@
 
 ## Other Techniques to try
 
-![Other techniques to try](../public/ai-fluency/6.png)
+<img src="/ai-fluency/6.png" alt="Other techniques to try" style="width:100%; max-width:960px; border-radius:12px;" />
 
 ## What works and what doesn't work
 
-![What works and what doesn't work](../public/ai-fluency/7.png)
+<img src="/ai-fluency/7.png" alt="What works and what doesn't work" style="width:100%; max-width:960px; border-radius:12px;" />
 
 
 <div style="border-radius:18px; background:#d2cfe3; padding:28px; display:flex; gap:24px; align-items:center;">
@@ -76,6 +76,6 @@
 		<p style="margin:0 0 18px 0; font-size:18px; color:#2d2a32; line-height:1.6;">
 			See how vague prompts can be transformed into effective ones with these real-world examples.
 		</p>
-		<a href="../public/ai-fluency/DD2_Handout__6_Effective_Prompting_Techniques.pdf" style="display:inline-block; padding:12px 22px; border-radius:12px; background:#6f6a80; color:#ffffff; text-decoration:none; font-weight:600;">Download</a>
+		<a href="/anthropic-notes/ai-fluency/DD2_Handout__6_Effective_Prompting_Techniques.pdf" style="display:inline-block; padding:12px 22px; border-radius:12px; background:#6f6a80; color:#ffffff; text-decoration:none; font-weight:600;">Download</a>
 	</div>
 </div>
