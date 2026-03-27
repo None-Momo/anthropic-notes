@@ -9,8 +9,8 @@ export default defineConfig({
     nav: [
       { text: 'Home', link: '/' },
       { text: 'AI Fluency', link: '/ai-fluency/' },
-      { text: 'Claude Code', link: '/claude-code/' },
-      { text: 'Claude API', link: '/claude-api/' },
+      // { text: 'Claude Code', link: '/claude-code/' },
+      // { text: 'Claude API', link: '/claude-api/' },
     ],
 
     sidebar: {

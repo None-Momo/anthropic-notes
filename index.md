@@ -20,12 +20,12 @@ features:
   - title: AI Fluency
     details: "Learn the 4D framework and collaboration patterns."
     link: /ai-fluency/
-  - title: Claude Code in Action
-    details: "Hands-on coding with Claude."
-    link: /claude-code/
-  - title: Claude API
-    details: "Build with Claude's API."
-    link: /claude-api/
+  # - title: Claude Code in Action
+  #   details: "Hands-on coding with Claude."
+  #   link: /claude-code/
+  # - title: Claude API
+  #   details: "Build with Claude's API."
+  #   link: /claude-api/
 ---
 
 _Content adapted from Anthropic Academy course materials; used here for study and reference._
